@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <WatchScripts />
+    <Ignored />
+    <Breakpoints>
+        <KeyValueItem>
+            <Key>/home/astra/Документы/Primo/EventAutotest/DesktopEvent/ChangeAttributeEvent/SimpleSequentialEvent_KeyboardValue.ltw</Key>
+            <Value>26a947a9-d361-4337-be1b-7f5928084065</Value>
+        </KeyValueItem>
+    </Breakpoints>
+    <Git />
+    <LastOpenedItems>
+        <string>/home/user_1/Primo/ProjectOrc/MainEvents/EventAutotest/Main.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/MainEvents/EventAutotest/DesktopEvent/ClickEvent/SimpleSequentialEvent.ltw</string>
+        <string>/home/astra/Документы/Primo/EventAutotest/DesktopEvent/ClickEvent/SimpleSequentialEvent.ltw</string>
+        <string>/home/astra/Документы/Primo/EventAutotest/DesktopEvent/ChangeAttributeEvent/SimpleSequentialEvent_KeyboardFocus.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>
