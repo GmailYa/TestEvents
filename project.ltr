@@ -7,6 +7,26 @@
             <Key>/home/astra/Документы/Primo/EventAutotest/DesktopEvent/ChangeAttributeEvent/SimpleSequentialEvent_KeyboardValue.ltw</Key>
             <Value>26a947a9-d361-4337-be1b-7f5928084065</Value>
         </KeyValueItem>
+        <KeyValueItem>
+            <Key>/home/astra/Документы/Primo/Git/TestEvents/DesktopEvent/MouseEvent/SimpleSequentialEvent_LeftButtonClick.ltw.ltw</Key>
+            <Value>b91a0413-2c57-4e2f-b557-8f8ac97097f4</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>/home/astra/Документы/Primo/Git/TestEvents/BrowserEvent/BrowserURLClosed/SimpleSequentialEvent_URLClosedYandex.ltw</Key>
+            <Value>5b0cba12-2cbf-47b2-8b71-bcc56b87acea</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>/home/astra/Документы/Primo/Git/TestEvents/BrowserEvent/BrowserURLClosed/SimpleSequentialEvent_URLClosedChrome.ltw</Key>
+            <Value>79341110-aafc-4f3c-89fc-a589923dd7f2</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>/home/astra/Документы/Primo/Git/TestEvents/BrowserEvent/ChangeAttributeEvent/SimpleSequentialEvent_ChangeAtrributeText_Chrome.ltw</Key>
+            <Value>1ac7fb8e-1bc3-44e4-a8e4-d89a907614ac</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>/home/astra/Документы/Primo/Git/TestEvents/DesktopEvent/MouseEvent/SimpleSequentialEvent_LeftButtonClickElement.ltw</Key>
+            <Value>b91a0413-2c57-4e2f-b557-8f8ac97097f4</Value>
+        </KeyValueItem>
     </Breakpoints>
     <Git />
     <LastOpenedItems>
@@ -14,5 +34,12 @@
         <string>/home/user_1/Primo/ProjectOrc/MainEvents/EventAutotest/DesktopEvent/ClickEvent/SimpleSequentialEvent.ltw</string>
         <string>/home/astra/Документы/Primo/EventAutotest/DesktopEvent/ClickEvent/SimpleSequentialEvent.ltw</string>
         <string>/home/astra/Документы/Primo/EventAutotest/DesktopEvent/ChangeAttributeEvent/SimpleSequentialEvent_KeyboardFocus.ltw</string>
+        <string>/home/astra/Документы/Primo/Git/TestEvents/DesktopEvent/HotKeyEvent/SimpleSequentialEvent_PressEnter.ltw</string>
+        <string>/home/astra/Документы/Primo/Git/TestEvents/DesktopEvent/ChangeAttributeEvent/SimpleSequentialEvent_KeyboardFocus.ltw</string>
+        <string>/home/astra/Документы/Primo/Git/TestEvents/SimpleSequentialEvent_ChangeAtrributeText_Chrome.ltw</string>
+        <string>/home/astra/Документы/Primo/Git/TestEvents/DesktopEvent/KeyPressEvent/SimpleSequentialEvent_PressKey1OnElement.ltw</string>
+        <string>/home/astra/Документы/Primo/Git/TestEvents/BrowserEvent/CheckElement/SimpleSequentialEvent_CheckElement_LeftButtonClick_Chrome.ltw</string>
+        <string>/home/astra/Документы/Primo/Git/TestEvents/BrowserEvent/KeyPressEvent/SimpleSequentialEvent_PressKey1OnElement_Chrome.ltw</string>
+        <string>/home/astra/Документы/Primo/Git/TestEvents/DesktopEvent/ClickEvent/SimpleSequentialEvent_LeftButtonClick.ltw</string>
     </LastOpenedItems>
 </LTProjectResources>
