@@ -1,0 +1,185 @@
+{
+  "uuid": "a955ecf3-bd3c-4016-9a78-00848b0af1aa",
+  "links": [],
+  "name": "Тест активности События Клик элемента в браузере, тип контейнера - последовательность",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Событие нажатия мыши Яндекс (ЛКМ Дочерние элементы)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1763471354526,
+      "stop": 1763471370812
+    },
+    {
+      "name": "Событие нажатия мыши Яндекс (ЛКМ)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1763471370905,
+      "stop": 1763471383233
+    },
+    {
+      "name": "Событие нажатия мыши Яндекс (ЛКМ+Shft_L)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1763471383300,
+      "stop": 1763471397397
+    },
+    {
+      "name": "Событие нажатия мыши Яндекс (С указанием заголовка - негатвный тест)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1763471397446,
+      "stop": 1763471409856
+    },
+    {
+      "name": "Событие нажатия мыши Яндекс (С указанием заголовка - позитивный тест)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1763471409916,
+      "stop": 1763471422192
+    },
+    {
+      "name": "Событие нажатия мыши Яндекс (ЛКМ 2X)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1763471422235,
+      "stop": 1763471434913
+    },
+    {
+      "name": "Событие нажатия мыши Яндекс (СКМ)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1763471434973,
+      "stop": 1763471447287
+    },
+    {
+      "name": "Событие нажатия мыши Яндекс (Коллекция шаблонов поиска)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1763471447332,
+      "stop": 1763471462165
+    },
+    {
+      "name": "Событие нажатия мыши Яндекс (ПКМ)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1763471462231,
+      "stop": 1763471474534
+    },
+    {
+      "name": "Событие нажатия мыши Яндекс (Коллекция шаблонов поиска ПКМ+Shft_L+Ctrl_L)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1763471474588,
+      "stop": 1763471487289
+    },
+    {
+      "name": "Событие нажатия мыши Яндекс (С указанием URL - позитивный тест)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1763471487333,
+      "stop": 1763471499549
+    },
+    {
+      "name": "Событие нажатия мыши Яндекс (С указанием URL - негативный тест)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1763471499603,
+      "stop": 1763471512006
+    }
+  ],
+  "attachments": [],
+  "start": 1763471354435,
+  "stop": 1763471512012
+}

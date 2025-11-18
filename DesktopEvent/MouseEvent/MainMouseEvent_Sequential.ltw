@@ -23,6 +23,7 @@
             <SerializationItem>
                 <IsListValue>false</IsListValue>
                 <Name>Variables</Name>
+                <Value xsi:type="ArrayOfScriptVariable" />
             </SerializationItem>
             <SerializationItem>
                 <IsListValue>false</IsListValue>

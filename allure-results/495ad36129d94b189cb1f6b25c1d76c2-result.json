@@ -1,0 +1,129 @@
+{
+  "uuid": "fd37be78-8a5c-466e-9d70-9168620f2c0e",
+  "links": [],
+  "name": "Тест активности События события изменения атрибута в браузере, тип контейнера - последовательность",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Событие изменения атрибута Яндекс (лист атрибутов)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1763471635762,
+      "stop": 1763471654579
+    },
+    {
+      "name": "Событие изменения атрибута Яндекс (атрибут name)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1763471654637,
+      "stop": 1763471670056
+    },
+    {
+      "name": "Событие изменения атрибута Яндекс (С указанием заголовка - негативный тест)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1763471670098,
+      "stop": 1763471685582
+    },
+    {
+      "name": "Событие изменения атрибута Яндекс (С указанием заголовка - позитивный тест)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1763471685658,
+      "stop": 1763471700466
+    },
+    {
+      "name": "Событие изменения атрибута Яндекс (Коллекция шаблонов поиска атрибут .text)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1763471700513,
+      "stop": 1763471716060
+    },
+    {
+      "name": "Событие изменения атрибута Яндекс (атрибут .text)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1763471716127,
+      "stop": 1763471730757
+    },
+    {
+      "name": "Событие изменения атрибута Яндекс (фильтр по URL - негативный тест)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1763471730807,
+      "stop": 1763471745441
+    },
+    {
+      "name": "Событие изменения атрибута Яндекс (фильтр по URL - позитивный тест)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1763471745487,
+      "stop": 1763471759936
+    }
+  ],
+  "attachments": [],
+  "start": 1763471635694,
+  "stop": 1763471759936
+}

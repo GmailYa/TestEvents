@@ -676,6 +676,11 @@
                                             </SerializationItem>
                                             <SerializationItem>
                                                 <IsListValue>false</IsListValue>
+                                                <Name>IsSkipTransitionsWithinMask</Name>
+                                                <Value xsi:type="xsd:boolean">false</Value>
+                                            </SerializationItem>
+                                            <SerializationItem>
+                                                <IsListValue>false</IsListValue>
                                                 <Name>TextTag</Name>
                                                 <Value xsi:type="xsd:string">Triggers</Value>
                                             </SerializationItem>

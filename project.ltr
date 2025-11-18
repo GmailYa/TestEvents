@@ -55,24 +55,30 @@
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/ClickEvent/SimpleSequentialEvent_LeftButtonClick.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/ClickEvent/SimpleSequentialEvent_MouseTrigger_LeftButtonClick+ShiftL.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/ClickEvent/SimpleSequentialEvent_MouseTrigger_LeftButtonClick+Shift_L+Ctrl_L.ltw</string>
-        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/ClickTrigger/Sequential/SimpleSequentialEvent_ClickTrigger_RigthButtonClick+Shift_L+Ctrl_L_PatternTemplate_Yandex.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/HotKeyEvent/SimpleSequentialEvent_PressKey1.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/HotKeyEvent/SimpleSequentialEvent_HotkeyTrigger_PressKey1+Key2.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/KeyPressEvent/SimpleSequentialEvent_HotkeyTrigger_PressKey1.ltw</string>
-        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/ChangeAttributeEvent/Sequential/SimpleSequentialEvent_PropertyChangedTrigger_KeyboardValue_WithProcessName.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/KeyPressEvent/SimpleSequentialEvent_KeyPressTrigger_PressKey1+Shift_L.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/KeyPressEvent/SimpleSequentialEvent_KeyPressTrigger_PressKey1+Shift_L+Ctrl_L.ltw</string>
-        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/ChangeAttributeEvent/Sequential/SimpleSequentialEvent_PropertyChangedTrigger_KeyboardFocus_WithProcessName.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/KeyPressEvent/SimpleSequentialEvent_KeyPressTrigger_PressKey1_WithProcessName.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/KeyPressEvent/SimpleSequentialEvent_KeyPressTrigger_PressKey1_WithTitleName.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/KeyPressEvent/SimpleSequentialEvent_KeyPressTrigger_PressKey1_Area_Negative.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/KeyPressEvent/SimpleSequentialEvent_KeyPressTrigger_PressKey1_Area_Positive.ltw</string>
-        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/ClickEvent/Sequential/SimpleSequentialEvent_MouseTrigger_LeftButtonClick_Area_Positive.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/MouseEvent/SimpleSequentialEvent_LeftButtonClickElement.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/KeyPressEvent/MainPressKeyEvent_Sequential.ltw</string>
-        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/Main.ltw</string>
-        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/Test.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/MainDesktopSequential.ltw</string>
-        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/HotKeyEvent/Sequential/SimpleSequentialEvent_HotkeyTrigger_PressKey1.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/Main.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/ClickTrigger/Sequential/SimpleSequentialEvent_ClickTrigger_LeftButtonClick_Child_Yandex.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/BrowserURLClosed/SimpleSequentialEvent_URLClosed_BrowserClosed_Chrome.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/KeyPressTrigger/MainPressKeySequential.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/ClickEvent/MainClickEvent_Sequential.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/HotKeyEvent/MainHotKeyEvent_Sequential.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/KeyPressTrigger/Sequential/SimpleSequentialEvent_PressKey_1_Press+WithTitle_Positive_Yandex.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/ClickTrigger/Sequential/SimpleSequentialEvent_ClickTrigger_LeftButtonClick+WithURLfilter_Positive_Yandex.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/ClickTrigger/Sequential/SimpleSequentialEvent_ClickTrigger_LeftButtonClick+WithURLfilter_Negative_Yandex.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/ClickTrigger/MainClickTriggerSequential.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/MainBrowserSequential.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/PropertyChanged/Sequential/SimpleSequentialEvent_PropertyChanged_WithMask_Yandex.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/PropertyChanged/MainPropertyChangedYandex.ltw</string>
     </LastOpenedItems>
 </LTProjectResources>
