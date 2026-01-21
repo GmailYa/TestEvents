@@ -217,7 +217,15 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>Arguments</Name>
-                        <Value xsi:type="ArrayOfScriptVariable" />
+                        <Value xsi:type="ArrayOfScriptVariable">
+                            <ScriptVariable>
+                                <Name>in_AllureFolder</Name>
+                                <Group />
+                                <DefaultValue xsi:type="xsd:string">AllureFolder</DefaultValue>
+                                <DataTypeString>System.String</DataTypeString>
+                                <Direction>IN</Direction>
+                            </ScriptVariable>
+                        </Value>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
@@ -333,7 +341,15 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>Arguments</Name>
-                        <Value xsi:type="ArrayOfScriptVariable" />
+                        <Value xsi:type="ArrayOfScriptVariable">
+                            <ScriptVariable>
+                                <Name>in_AllureFolder</Name>
+                                <Group />
+                                <DefaultValue xsi:type="xsd:string">AllureFolder</DefaultValue>
+                                <DataTypeString>System.String</DataTypeString>
+                                <Direction>IN</Direction>
+                            </ScriptVariable>
+                        </Value>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
@@ -449,7 +465,15 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>Arguments</Name>
-                        <Value xsi:type="ArrayOfScriptVariable" />
+                        <Value xsi:type="ArrayOfScriptVariable">
+                            <ScriptVariable>
+                                <Name>in_AllureFolder</Name>
+                                <Group />
+                                <DefaultValue xsi:type="xsd:string">AllureFolder</DefaultValue>
+                                <DataTypeString>System.String</DataTypeString>
+                                <Direction>IN</Direction>
+                            </ScriptVariable>
+                        </Value>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
@@ -565,7 +589,15 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>Arguments</Name>
-                        <Value xsi:type="ArrayOfScriptVariable" />
+                        <Value xsi:type="ArrayOfScriptVariable">
+                            <ScriptVariable>
+                                <Name>in_AllureFolder</Name>
+                                <Group />
+                                <DefaultValue xsi:type="xsd:string">AllureFolder</DefaultValue>
+                                <DataTypeString>System.String</DataTypeString>
+                                <Direction>IN</Direction>
+                            </ScriptVariable>
+                        </Value>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
@@ -681,7 +713,15 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>Arguments</Name>
-                        <Value xsi:type="ArrayOfScriptVariable" />
+                        <Value xsi:type="ArrayOfScriptVariable">
+                            <ScriptVariable>
+                                <Name>in_AllureFolder</Name>
+                                <Group />
+                                <DefaultValue xsi:type="xsd:string">AllureFolder</DefaultValue>
+                                <DataTypeString>System.String</DataTypeString>
+                                <Direction>IN</Direction>
+                            </ScriptVariable>
+                        </Value>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
@@ -797,7 +837,15 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>Arguments</Name>
-                        <Value xsi:type="ArrayOfScriptVariable" />
+                        <Value xsi:type="ArrayOfScriptVariable">
+                            <ScriptVariable>
+                                <Name>in_AllureFolder</Name>
+                                <Group />
+                                <DefaultValue xsi:type="xsd:string">AllureFolder</DefaultValue>
+                                <DataTypeString>System.String</DataTypeString>
+                                <Direction>IN</Direction>
+                            </ScriptVariable>
+                        </Value>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
@@ -913,7 +961,15 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>Arguments</Name>
-                        <Value xsi:type="ArrayOfScriptVariable" />
+                        <Value xsi:type="ArrayOfScriptVariable">
+                            <ScriptVariable>
+                                <Name>in_AllureFolder</Name>
+                                <Group />
+                                <DefaultValue xsi:type="xsd:string">AllureFolder</DefaultValue>
+                                <DataTypeString>System.String</DataTypeString>
+                                <Direction>IN</Direction>
+                            </ScriptVariable>
+                        </Value>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
@@ -1029,7 +1085,15 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>Arguments</Name>
-                        <Value xsi:type="ArrayOfScriptVariable" />
+                        <Value xsi:type="ArrayOfScriptVariable">
+                            <ScriptVariable>
+                                <Name>in_AllureFolder</Name>
+                                <Group />
+                                <DefaultValue xsi:type="xsd:string">AllureFolder</DefaultValue>
+                                <DataTypeString>System.String</DataTypeString>
+                                <Direction>IN</Direction>
+                            </ScriptVariable>
+                        </Value>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>

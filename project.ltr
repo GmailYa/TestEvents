@@ -35,6 +35,10 @@
             <Key>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/MouseEvent/SimpleSequentialEvent_ClickTrigger_LeftButtonClickElement+Shift_L.ltw</Key>
             <Value>ce454172-4740-43aa-8d65-2f8aa7f4e17e</Value>
         </KeyValueItem>
+        <KeyValueItem>
+            <Key>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/CreateFolder.ltw</Key>
+            <Value>c1b1cfbe-539b-431d-910f-758fa595654c</Value>
+        </KeyValueItem>
     </Breakpoints>
     <Git />
     <LastOpenedItems>
@@ -66,19 +70,17 @@
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/KeyPressEvent/SimpleSequentialEvent_KeyPressTrigger_PressKey1_Area_Positive.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/MouseEvent/SimpleSequentialEvent_LeftButtonClickElement.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/KeyPressEvent/MainPressKeyEvent_Sequential.ltw</string>
-        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/MainDesktopSequential.ltw</string>
-        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/Main.ltw</string>
-        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/ClickTrigger/Sequential/SimpleSequentialEvent_ClickTrigger_LeftButtonClick_Child_Yandex.ltw</string>
-        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/BrowserURLClosed/SimpleSequentialEvent_URLClosed_BrowserClosed_Chrome.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/KeyPressTrigger/MainPressKeySequential.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/ClickEvent/MainClickEvent_Sequential.ltw</string>
-        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/DesktopEvent/HotKeyEvent/MainHotKeyEvent_Sequential.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/KeyPressTrigger/Sequential/SimpleSequentialEvent_PressKey_1_Press+WithTitle_Positive_Yandex.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/ClickTrigger/Sequential/SimpleSequentialEvent_ClickTrigger_LeftButtonClick+WithURLfilter_Positive_Yandex.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/ClickTrigger/Sequential/SimpleSequentialEvent_ClickTrigger_LeftButtonClick+WithURLfilter_Negative_Yandex.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/ClickTrigger/MainClickTriggerSequential.ltw</string>
-        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/MainBrowserSequential.ltw</string>
-        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/PropertyChanged/Sequential/SimpleSequentialEvent_PropertyChanged_WithMask_Yandex.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/ClickTrigger/Sequential/event_dropbox_use_value.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/ClickTrigger/Sequential/SimpleSequentialEvent_ClickTrigger_LeftButtonClick_Yandex.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/ClickTrigger/Sequential/SimpleSequentialEvent_ClickTrigger_RigthButtonClick+Shift_L+Ctrl_L_PatternTemplate_Yandex.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/ClickTrigger/Sequential/SimpleSequentialEvent_ClickTrigger_LeftButtonClick_Child_Yandex.ltw</string>
         <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/BrowserEvent/PropertyChanged/MainPropertyChangedYandex.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/EventAutotest/TestEvents/Main.ltw</string>
     </LastOpenedItems>
 </LTProjectResources>

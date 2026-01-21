@@ -6,6 +6,11 @@
             <Version>1.0.6</Version>
             <SourceId xsi:nil="true" />
         </NugetDependency>
+        <NugetDependency>
+            <Id>Primo.Office.OdfOxml.Linux</Id>
+            <Version>1.2.5</Version>
+            <SourceId xsi:nil="true" />
+        </NugetDependency>
     </NugetDependencies>
     <Namespaces>
         <ProjectNamespace>

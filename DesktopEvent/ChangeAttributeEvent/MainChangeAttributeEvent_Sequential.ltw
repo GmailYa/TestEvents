@@ -101,7 +101,7 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>CaseName</Name>
-                        <Value xsi:type="xsd:string">"Тест активности Событие изменения атрибута, тип контейнера - последовательность"</Value>
+                        <Value xsi:type="xsd:string">"Тест активности Событие изменения атрибута в десктопном приложении, тип контейнера - последовательность"</Value>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
@@ -110,6 +110,10 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>CaseParams</Name>
+                    </SerializationItem>
+                    <SerializationItem>
+                        <IsListValue>false</IsListValue>
+                        <Name>CaseParamsDict</Name>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
@@ -147,6 +151,7 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>CasePath</Name>
+                        <Value xsi:type="xsd:string">in_AllureFolder</Value>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
@@ -241,6 +246,10 @@
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
                                 <Name>CaseParams</Name>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
+                                <Name>CaseParamsDict</Name>
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
@@ -366,7 +375,20 @@
                                     <SerializationItem>
                                         <IsListValue>false</IsListValue>
                                         <Name>Arguments</Name>
-                                        <Value xsi:type="ArrayOfScriptVariable" />
+                                        <Value xsi:type="ArrayOfScriptVariable">
+                                            <ScriptVariable>
+                                                <Name>io_Result</Name>
+                                                <Group />
+                                                <DataTypeString>System.String</DataTypeString>
+                                                <Direction>IN_OUT</Direction>
+                                            </ScriptVariable>
+                                            <ScriptVariable>
+                                                <Name>runTime</Name>
+                                                <Group />
+                                                <DataTypeString>System.TimeSpan</DataTypeString>
+                                                <Direction>OUT</Direction>
+                                            </ScriptVariable>
+                                        </Value>
                                     </SerializationItem>
                                     <SerializationItem>
                                         <IsListValue>false</IsListValue>
@@ -459,6 +481,10 @@
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
                                 <Name>CaseParams</Name>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
+                                <Name>CaseParamsDict</Name>
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
@@ -680,6 +706,10 @@
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
+                                <Name>CaseParamsDict</Name>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
                                 <Name>CaseEnd</Name>
                                 <Value xsi:type="xsd:boolean">true</Value>
                             </SerializationItem>
@@ -895,6 +925,10 @@
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
                                 <Name>CaseParams</Name>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
+                                <Name>CaseParamsDict</Name>
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
@@ -1116,6 +1150,10 @@
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
+                                <Name>CaseParamsDict</Name>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
                                 <Name>CaseEnd</Name>
                                 <Value xsi:type="xsd:boolean">true</Value>
                             </SerializationItem>
@@ -1334,6 +1372,10 @@
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
+                                <Name>CaseParamsDict</Name>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
                                 <Name>CaseEnd</Name>
                                 <Value xsi:type="xsd:boolean">true</Value>
                             </SerializationItem>
@@ -1533,5 +1575,12 @@
         </Components>
     </RootContainer>
     <GlobalVariables />
-    <Arguments />
+    <Arguments>
+        <ScriptVariable>
+            <Name>in_AllureFolder</Name>
+            <Group />
+            <DataTypeString>String</DataTypeString>
+            <Direction>IN</Direction>
+        </ScriptVariable>
+    </Arguments>
 </SerializationRoot>

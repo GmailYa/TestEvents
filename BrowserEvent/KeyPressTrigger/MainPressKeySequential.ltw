@@ -113,6 +113,10 @@
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
+                        <Name>CaseParamsDict</Name>
+                    </SerializationItem>
+                    <SerializationItem>
+                        <IsListValue>false</IsListValue>
                         <Name>CaseLabels</Name>
                     </SerializationItem>
                     <SerializationItem>
@@ -241,6 +245,10 @@
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
                                 <Name>CaseParams</Name>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
+                                <Name>CaseParamsDict</Name>
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
@@ -462,6 +470,10 @@
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
+                                <Name>CaseParamsDict</Name>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
                                 <Name>CaseEnd</Name>
                                 <Value xsi:type="xsd:boolean">true</Value>
                             </SerializationItem>
@@ -677,6 +689,10 @@
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
                                 <Name>CaseParams</Name>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
+                                <Name>CaseParamsDict</Name>
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
@@ -898,6 +914,10 @@
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
+                                <Name>CaseParamsDict</Name>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
                                 <Name>CaseEnd</Name>
                                 <Value xsi:type="xsd:boolean">true</Value>
                             </SerializationItem>
@@ -1113,6 +1133,10 @@
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
                                 <Name>CaseParams</Name>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
+                                <Name>CaseParamsDict</Name>
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
@@ -1334,6 +1358,10 @@
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
+                                <Name>CaseParamsDict</Name>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
                                 <Name>CaseEnd</Name>
                                 <Value xsi:type="xsd:boolean">true</Value>
                             </SerializationItem>
@@ -1549,6 +1577,10 @@
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
                                 <Name>CaseParams</Name>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
+                                <Name>CaseParamsDict</Name>
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
@@ -1770,6 +1802,10 @@
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
+                                <Name>CaseParamsDict</Name>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
                                 <Name>CaseEnd</Name>
                                 <Value xsi:type="xsd:boolean">true</Value>
                             </SerializationItem>
@@ -1985,6 +2021,10 @@
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
                                 <Name>CaseParams</Name>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
+                                <Name>CaseParamsDict</Name>
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>

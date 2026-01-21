@@ -568,6 +568,11 @@
                                     </SerializationItem>
                                     <SerializationItem>
                                         <IsListValue>false</IsListValue>
+                                        <Name>BrowserUrl</Name>
+                                        <Value xsi:type="xsd:string">"*"</Value>
+                                    </SerializationItem>
+                                    <SerializationItem>
+                                        <IsListValue>false</IsListValue>
                                         <Name>IsIncludeChildElements</Name>
                                         <Value xsi:type="xsd:boolean">false</Value>
                                     </SerializationItem>

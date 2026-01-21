@@ -101,7 +101,7 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>CaseName</Name>
-                        <Value xsi:type="xsd:string">"Тест активности Событие спецкнопки, тип контейнера - последовательность"</Value>
+                        <Value xsi:type="xsd:string">"Тест активности Событие спецкнопки в десктопном приложении, тип контейнера - последовательность"</Value>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
@@ -110,6 +110,10 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>CaseParams</Name>
+                    </SerializationItem>
+                    <SerializationItem>
+                        <IsListValue>false</IsListValue>
+                        <Name>CaseParamsDict</Name>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
@@ -147,6 +151,7 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>CasePath</Name>
+                        <Value xsi:type="xsd:string">in_AllureFolder</Value>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
@@ -232,7 +237,7 @@
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
                                 <Name>CaseName</Name>
-                                <Value xsi:type="xsd:string">"'Событие спецкнопки (1 нажатие)' "</Value>
+                                <Value xsi:type="xsd:string">"Событие спецкнопки (1 нажатие)"</Value>
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
@@ -241,6 +246,10 @@
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
                                 <Name>CaseParams</Name>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
+                                <Name>CaseParamsDict</Name>
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
@@ -450,7 +459,7 @@
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
                                 <Name>CaseName</Name>
-                                <Value xsi:type="xsd:string">"'Событие спецкнопки (2 нажатия)'"</Value>
+                                <Value xsi:type="xsd:string">"Событие спецкнопки (2 нажатия)"</Value>
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
@@ -459,6 +468,10 @@
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
                                 <Name>CaseParams</Name>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
+                                <Name>CaseParamsDict</Name>
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
@@ -668,7 +681,7 @@
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
                                 <Name>CaseName</Name>
-                                <Value xsi:type="xsd:string">"'Событие спецкнопки (3 нажатия)'"</Value>
+                                <Value xsi:type="xsd:string">"Событие спецкнопки (3 нажатия)"</Value>
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
@@ -677,6 +690,10 @@
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
                                 <Name>CaseParams</Name>
+                            </SerializationItem>
+                            <SerializationItem>
+                                <IsListValue>false</IsListValue>
+                                <Name>CaseParamsDict</Name>
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
@@ -879,5 +896,12 @@
         </Components>
     </RootContainer>
     <GlobalVariables />
-    <Arguments />
+    <Arguments>
+        <ScriptVariable>
+            <Name>in_AllureFolder</Name>
+            <Group />
+            <DataTypeString>String</DataTypeString>
+            <Direction>IN</Direction>
+        </ScriptVariable>
+    </Arguments>
 </SerializationRoot>
