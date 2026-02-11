@@ -188,7 +188,7 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>URL</Name>
-                        <Value xsi:type="xsd:string">""</Value>
+                        <Value xsi:type="xsd:string">"http://10.0.0.143:8081/"</Value>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
@@ -211,7 +211,7 @@
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
                         <Name>LaunchArgs</Name>
-                        <Value xsi:type="xsd:string">"--remote-debugging-port=9222 --no-first-run --no-default-browser-check"</Value>
+                        <Value xsi:type="xsd:string">"--no-first-run --no-default-browser-check"</Value>
                     </SerializationItem>
                     <SerializationItem>
                         <IsListValue>false</IsListValue>
